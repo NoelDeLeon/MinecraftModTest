@@ -1,0 +1,2 @@
+# MinecraftModTest
+Test mod creation
